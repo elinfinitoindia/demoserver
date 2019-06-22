@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "title": "50% off on Puma",
+        "link": "https://amazon.in",
+        "image": "https://elinfinitoindia.in/images/",
+        "description": "Get 50% off on Puma Shoes and Accessories",
+        "category": "fashion",
+        "subcategory": "mfashion",
+        "brand":"Puma"
+
+    },
+    
+    {
+        "id": "2",
+        "title": "50% off on Addidas",
+        "link": "https://amazon.in",
+        "image": "https://elinfinitoindia.in/images/",
+        "description": "Get 50% off on Addidas Shoes and Accessories",
+        "category": "fashion",
+        "subcategory": "ffashion",
+        "brand":"Addidas"
+    },
+    {
+        "id": "3",
+        "title": "50% off on Nike",
+        "link": "https://amazon.in",
+        "image": "https://elinfinitoindia.in/images/",
+        "description": "Get 50% off on Nike Shoes and Accessories",
+        "category": "electronic",
+        "subcategory": "accessories",
+        "brand":"Nike"
+    },
+    
+]
