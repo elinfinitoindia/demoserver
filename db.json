@@ -1,6 +1,8 @@
-
+{ 
+    "deals:
     {
-        "id": "1",
+  
+ "id": "1",
         "title": "50% off on Puma",
         "link": "https://amazon.in",
         "image": "https://elinfinitoindia.in/images/",
@@ -32,3 +34,4 @@
         "brand":"Nike"
     },
     
+}
