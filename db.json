@@ -171,21 +171,21 @@
             "id":"1",
             "name":"Amazon",
             "category":"Fashion",
-            "link":"https://amazon.in",
+           
             "image":"http://elinfinitoindia.in/images/logo.png"
         },
         {
             "id": "1",
             "name": "Amazon",
             "category": "Entertainment",
-            "link":"https://amazon.in",
+       
             "image": "http://elinfinitoindia.in/images/logo.png"
         },
         {
             "id": "1",
             "name": "Amazon",
             "category": "Grocery",
-            "link":"https://amazon.in",
+           
             "image": "http://elinfinitoindia.in/images/logo.png"
         }
     ],
