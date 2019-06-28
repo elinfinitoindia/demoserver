@@ -1,16 +1,242 @@
 {
-"posts": [
+    "deals": [
+        {
+            "id": "1",
+            "title": "50% off on Puma",
+            "link": "https://amazon.in",
+            "image": "http://elinfinitoindia.in/images/logo.png",
+            "description": "Get 50% off on Puma Shoes and Accessories",
+            "category": "MF",
+            "subcategory": "mfashion",
+            "brand": "Puma",
+            "coupon": "AA8756"
+        },
+        {
+            "id": "2",
+            "title": "50% off on Addidas",
+            "link": "https://amazon.in",
+            "image": "http://elinfinitoindia.in/images/logo.png",
+            "description": "Get 50% off on Addidas Shoes and Accessories",
+            "category": "MF",
+            "subcategory": "ffashion",
+            "brand": "Addidas"
+        },
+        {
+            "id": "3",
+            "title": "50% off on Nike",
+            "link": "https://amazon.in",
+            "image": "https://elinfinitoindia.in/images/",
+            "description": "Get 50% off on Nike Shoes and Accessories",
+            "category": "electronic",
+            "subcategory": "accessories",
+            "brand": "Nike"
+        }
+    ],
+    "products": [
+        {
+            "id": "1",
+            "title": "Avenger Mobile Cover",
+            "link": "https://amazon.in",
+            "image": "https://elinfinitoindia.in/images/",
+            "description": "lorem12",
+            "category": "fashion",
+            "subcategory": "mfashion",
+            "coupon": "AA8756"
+        },
+        {
+            "id": "2",
+            "title": "Perfect Gift",
+            "link": "https://amazon.in",
+            "image": "https://elinfinitoindia.in/images/",
+            "description": "Get 50% off on Addidas Shoes and Accessories",
+            "category": "fashion",
+            "brand": "Addidas"
+        },
+        {
+            "id": "3",
+            "title": "Super Product",
+            "link": "https://amazon.in",
+            "image": "https://elinfinitoindia.in/images/",
+            "description": "Get 50% off on Nike Shoes and Accessories",
+            "category": "electronic",
+            "brand": "Nike"
+        }
+    ],
+    "productC": [
+        {
+            "id": "1",
+            "name": "fashion"
+        },
+        {
+            "id": "1",
+            "name": "typicode"
+        },
+        {
+            "id": "2",
+            "name": "For you"
+        },
+        {
+            "id": "3",
+            "name": "Valentine Gift"
+        },
+        {
+            "id": "4",
+            "name": "Testing "
+        }
+    ],
+    "DealC": [
+        {
+            "id": "1",
+            "Category":"MF",
+            "name": "Tshirts"
+        },
+        {
+        "id": "2",
+        "Category": "MF",
+        "name": "Shirts"
+        },
+        {
+            "id": "3",
+            "Category": "MF",
+            "name": "Jeans"
+        },
+        {
+            "id": "4",
+            "Category": "MF",
+            "name": "Trousers"
+        },
+        {
+            "id": "5",
+            "Category": "WF",
+            "name": "Shirts"
+        },
+        {
+            "id": "6",
+            "Category": "WF",
+            "name": "Shirts"
+        },
+        {
+            "id": "7",
+            "Category": "WF",
+            "name": "Tops"
+        },
+        {
+            "id": "8",
+            "Category": "WF",
+            "name": "BotomWear"
+        },
+        {
+            "id": "9",
+            "Category": "G",
+            "name": "GPS"
+        },
+        {
+            "id": "10",
+            "Category": "A",
+            "name": "Shirts"
+        },
+        {
+            "id": "11",
+            "Category": "A",
+            "name": "Shirts"
+        },
+        {
+            "id": "12",
+            "Category": "A",
+            "name": "Supoer"
+        },
+        {
+            "id": "13",
+            "Category": "MA",
+            "name": "Covers"
+        },
+        {
+            "id": "14",
+            "Category": "MA",
+            "name": "headphjones"
+        },
+        {
+            "id": "15",
+            "Category": "MA",
+            "name": "Earphpones"
+        },
+        {
+            "id": "16",
+            "Category": "MF",
+            "name": "Shirts"
+        }
+    ],
+    "storeLinks":[
+        {
+            "id":"1",
+            "name":"Amazon",
+            "category":"Fashion",
+            "link":"https://amazon.in",
+            "image":"http://elinfinitoindia.in/images/logo.png"
+        },
+        {
+            "id": "1",
+            "name": "Amazon",
+            "category": "Entertainment",
+            "link":"https://amazon.in",
+            "image": "http://elinfinitoindia.in/images/logo.png"
+        },
+        {
+            "id": "1",
+            "name": "Amazon",
+            "category": "Grocery",
+            "link":"https://amazon.in",
+            "image": "http://elinfinitoindia.in/images/logo.png"
+        }
+    ],
+    "ads":[
+        {
+            "id":"1",
+            "link":"https://amazon.in",
+            "image":"http://elinfinitoindia.in/images/logo.png",
+            "category":"scroll",
+            "subcategory":"newlaunches"
+        },
+        {
+            "id": "2",
+            "link": "https://amazon.in",
+            "image": "http://elinfinitoindia.in/images/logo.png",
+            "category": "scroll",
+            "subcategory": "newlaunches"
+        },
+        
+        {
+            "id": "3",
+            "link": "https://amazon.in",
+            "image": "http://elinfinitoindia.in/images/logo.png",
+            "category": "scroll",
+            "subcategory": "newlaunches"
+        },
+        
+        {
+            "id": "4",
+            "link": "https://amazon.in",
+            "image": "http://elinfinitoindia.in/images/logo.png",
+            "category": "scroll",
+            "subcategory": "newlaunches"
+        },
+    
     {
-      "id": 1,
-      "title": "Post 1"
+        "id": "5",
+        "link": "https://amazon.in",
+        "image": "http://elinfinitoindia.in/images/logo.png",
+        "category": "scroll",
+        "subcategory": "creditcard"
     },
     {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+        "id": "6",
+        "link": "https://amazon.in",
+        "image": "http://elinfinitoindia.in/images/logo.png",
+        "category": "scroll",
+        "subcategory": "creditcard"
     }
-  ],
+    
+    
+        
+    ]
 }
